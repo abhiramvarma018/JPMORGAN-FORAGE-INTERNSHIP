@@ -2,4 +2,4 @@
  
 # MY CERTIFICATION
 
-![image]("C:\JPMORGAN-FORAGE-INTERNSHIP\JPMORGAN-FORAGE-INTERNSHIP\Abhiram JP morgan certificate.pdf")
+![image](C:\JPMORGAN-FORAGE-INTERNSHIP\JPMORGAN-FORAGE-INTERNSHIP\Abhiram JP morgan certificate.pdf)
